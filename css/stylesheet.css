@@ -1,0 +1,25 @@
+﻿body {
+    background-color: white;
+}
+
+button {
+    color: white;
+    border: transparent;
+    background-color: #ffc400;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 15px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+    button:hover {
+        background-color: #edb702;
+        color: #0dbeff;
+        box-shadow: 15px 10px 15px rgba(255, 187, 0, 0.4);
+    }
+
+img {
+    width: 50%;
+}
